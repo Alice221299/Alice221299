@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anna Bondarets</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Frontend developer focused on reaching my goals, with initiative to work and learn and an open heart to the world.</h3>
 
 - 🌱 I’m currently learning **frontend development**
 
