@@ -1,6 +1,7 @@
-### Hi everyone 👋
+### Hola! Mi nombre es Anna Bondarets 👋
 
-🌱 I’m currently learning frontend Development
+
+🌱 Ahora estoy aprendiendo Frontend Development
 
 
 <!--
