@@ -17,6 +17,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alice221299&layout=compact)](https://github.com/yushi1007)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alice221299)](https://github.com/anuraghazra/github-readme-stats)
-
 
